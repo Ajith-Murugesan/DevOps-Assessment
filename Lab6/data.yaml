@@ -1,0 +1,13 @@
+organization:
+  name: Acme Corporation
+  departments:
+    - Engineering:
+      employees:
+        - Alice Smith
+        - Bob Jones
+        - Carol Williams
+    - Sales:
+      employees:
+        - David Miller
+        - Emily Brown
+        - Frank Johnson
