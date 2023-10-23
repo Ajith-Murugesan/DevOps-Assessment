@@ -1,0 +1,14 @@
+C:\Users\tsksu\OneDrive\Desktop\WebApiDocker\bin\Debug\WebApiDocker.deps.json
+C:\Users\tsksu\OneDrive\Desktop\WebApiDocker\bin\Debug\WebApiDocker.runtimeconfig.json
+C:\Users\tsksu\OneDrive\Desktop\WebApiDocker\bin\Debug\appsettings.Development.json
+C:\Users\tsksu\OneDrive\Desktop\WebApiDocker\bin\Debug\appsettings.json
+C:\Users\tsksu\OneDrive\Desktop\WebApiDocker\bin\Debug\WebApiDocker.exe
+C:\Users\tsksu\OneDrive\Desktop\WebApiDocker\bin\Debug\WebApiDocker.dll
+C:\Users\tsksu\OneDrive\Desktop\WebApiDocker\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tsksu\OneDrive\Desktop\WebApiDocker\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tsksu\OneDrive\Desktop\WebApiDocker\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tsksu\OneDrive\Desktop\WebApiDocker\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\tsksu\OneDrive\Desktop\WebApiDocker\bin\Debug\WebApiDocker.pdb
+C:\Users\tsksu\OneDrive\Desktop\WebApiDocker\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\tsksu\OneDrive\Desktop\WebApiDocker\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\tsksu\OneDrive\Desktop\WebApiDocker\obj\Debug\docker-compose.dcproj.CopyComplete

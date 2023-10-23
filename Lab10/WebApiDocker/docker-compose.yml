@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  webapidocker:
+    image: ${DOCKER_REGISTRY-}webapidocker
+    build:
+      context: .
+      dockerfile: WebApiDocker/Dockerfile
